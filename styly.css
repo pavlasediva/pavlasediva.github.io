@@ -1,0 +1,45 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+/*h1 { color: red; }*/
+nav li {display: inline-block;}
+nav {background-color: #b7005c}
+nav {margin-top: 40px}
+nav {padding: 10px}
+nav {color: white}
+nav li {color: white}
+nav ul {width: 300px}
+nav ul {margin: auto}
+nav li {padding: 10px}
+nav a {font-family: helvetica; color: white; font-style: auto}
+li {font-family: helvetica}
+blockquote {font-family: helvetica}
+header {font-family: helvetica}
+h1 {text-align: center;}
+h1 {font-size: 30px}
+h1 {color: grey}
+h1 {font-family: helvetica}
+p {font-family: helvetica}
+p {text-align:center;}
+img {width: 70%}
+aside {float: left;}
+aside {width: 30%}
+article {float: right}
+article {width: 70%}
+section {margin: auto;}
+section {padding: 10px}
+section {width: 70%}
+aside header {padding: 30px}
+aside header {text-align: center;}
+aside header {font-style: italic}
+aside header {font-size: 17px}
+aside blockquote {padding: 10px}
+aside blockquote {font-size: 17px}
+aside blockquote {margin-top: 3px}
+aside blockquote {text-align: center;}
+aside blockquote {font-style: italic;}
+aside blockquote {color: #b7005c}
+aside img {padding: 3px}
+aside img {margin-left: 40px;}
+div {width: 50px, height: 50px; background-color: #f0f0f0; margin-left: 37px; margin-right: 45px}
+ul {margin-top: 40px}
+ul {font-size: 17px}
